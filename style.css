@@ -1,0 +1,40 @@
+/* abouve 768px word-input 50% width */
+@media (min-width: 768px) {
+    .word-input {
+        width: 50%;
+    }
+}
+
+
+#title {
+    font: 3em sans-serif;
+    font-weight: bolder;
+    color: rgb(47, 47, 92);
+    padding-bottom: 25px;
+}
+
+
+
+#result-exo1 {
+    font-size: 2em;
+    color: rgb(47, 47, 92);
+}
+
+#puissance {
+    font: 2em sans-serif;
+    color: rgb(47, 47, 92);
+}
+
+#result-exo2 {
+    font-size: 2em;
+    color: rgb(47, 47, 92);
+}
+
+#result-exo3 {
+    font-size: 2em;
+    color: rgb(47, 47, 92);
+}
+
+#couleur-p{
+    background-color: rgb(255, 236, 149);
+}   
